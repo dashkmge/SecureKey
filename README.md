@@ -1,14 +1,5 @@
----
-title: SecureKey
-emoji: 🔐
-colorFrom: blue
-colorTo: purple
-sdk: static
-app_file: index.html
-pinned: false
----
-
 # SecureKey
+[![Live Demo](https://img.shields.io/badge/Live--Demo-Click%20Here-brightgreen?style=for-the-badge&logo=githubpages)](https://dashkmge.github.io/SecureKey/)
 
 Password generator and strength checker. One static page built with HTML, CSS and vanilla JavaScript. No backend, no build step, no dependencies, no external requests.
 
